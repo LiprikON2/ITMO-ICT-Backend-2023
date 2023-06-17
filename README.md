@@ -1,3 +1,20 @@
+# Алгоритмы и структуры данных
+> K33401 - Рейнгеверц Вадим
+
+### Laboratory Works
+- [Laboratory Work 1](https://github.com/LiprikON2/ITMO-ICT-Backend-2023/tree/labrotory-work-1/labs/K33401/Reingeverts%20Vadim/Laborotory%20Work%201)
+- [Laboratory Work 2](https://github.com/LiprikON2/ITMO-ICT-Backend-2023/tree/laboratory-work-2/labs/K33401/Reingeverts%20Vadim/Laboratory%20Work%202)
+- [Laboratory Work 3](https://github.com/LiprikON2/ITMO-ICT-Backend-2023/tree/laboratory-work-3/labs/K33401/Reingeverts%20Vadim/Laboratory%20Work%203)
+- [Laboratory Work 4](https://github.com/LiprikON2/ITMO-ICT-Backend-2023/tree/laboratory-work-4/labs/K33401/Reingeverts%20Vadim/Laboratory%20Work%204)
+
+### Homeworks
+- [Homework 1](https://github.com/LiprikON2/ITMO-ICT-Backend-2023/tree/homework-1/homeworks/K33401/Reingeverts%20Vadim/Homework%201)
+- [Homework 2](https://github.com/LiprikON2/ITMO-ICT-Backend-2023/tree/homework-2/homeworks/K33401/Reingeverts%20Vadim/Homework%202)
+- [Homework 3](https://github.com/LiprikON2/ITMO-ICT-Backend-2023/tree/homework-3/homeworks/K33401/Reingeverts%20Vadim/Homework%203)
+- [Homework 4-5](https://github.com/LiprikON2/ITMO-ICT-Backend-2023/tree/homework-4-5/homeworks/K33401/Reingeverts%20Vadim/Homework%204-5)
+
+
+___
 # ITMO-ICT-Backend-2023
 Курс по бэкенд-разработке в среде Node.JS для Университета ИТМО
 
