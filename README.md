@@ -1,6 +1,8 @@
 # Backend
 > K33401 - Рейнгеверц Вадим
 
+[![wakatime](https://wakatime.com/badge/github/LiprikON2/ITMO-ICT-Backend-2023.svg)](https://wakatime.com/badge/github/LiprikON2/ITMO-ICT-Backend-2023)
+
 ### Laboratory Works
 - [Laboratory Work 1](https://github.com/LiprikON2/ITMO-ICT-Backend-2023/tree/labrotory-work-1/labs/K33401/Reingeverts%20Vadim/Laborotory%20Work%201)
 - [Laboratory Work 2](https://github.com/LiprikON2/ITMO-ICT-Backend-2023/tree/laboratory-work-2/labs/K33401/Reingeverts%20Vadim/Laboratory%20Work%202)
